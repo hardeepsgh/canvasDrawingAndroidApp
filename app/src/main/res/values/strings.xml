@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HardeepSinghCOM_314Ass3</string>
+    <string name="app_canvas">Canvas</string>
+    <string name="app_animation">Animation</string>
+    <string name="app_earth_view">Earth View</string>
+    <string name="change_width">Change Width</string>
+    <string name="radio_control">Radio Control</string>
+    <string name="arrow_control">Arrow Control</string>
+    <string name="framebyframe">Frame-By-Frame Animation Example</string>
+    <string name="tween">tween</string>
+    <string name="once_more">Once more!!</string>
+    <string-array name="width_array">
+        <item>10</item>
+        <item>5</item>
+        <item>1</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+</resources>
